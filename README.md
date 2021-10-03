@@ -1,10 +1,12 @@
-### ✨ Hola! ✨
+### ✨ Hello! ✨
 
 
-- 🌱 I’m currently learning how to improve the CX in the IT industry
-- 👯 I’m looking to collaborate on IT and Science communitys
-- 💬 Ask me about soft skills and how to management the knowledge of a project
-- 📫 How to reach me: Twitter @real_krom 
-- 😄 Pronouns: She/They
-- ⚡ Fun fact: ... I'm the person how took the beautiful pictures and have 0 pictures of her.
+- 🐱‍👤 I have participated in different IT projects as a Full Stack developer, also as a Data Scientist, Support Engineer and also as Project Leader
+- 👩🏻‍💻 I enjoy writing and reading scientific articles, can you recommend one?
+- 🌱 I am currently learning how to improve CX in IT industry
+- 👯 I seek to collaborate in scientific and IT communities
+- 💬 Ask me about Soft Skills, how to Manage Knowledge of a project and how to manage a good Process Structuring
+- 📫 How to contact me: Twitter @real_krom
+- 😄 Pronouns: She / They
+-⚡ Fun fact: ... I am the person who takes the beautiful photos of her friends, family, pet, food but has 0 photos of her 😅
 -->
