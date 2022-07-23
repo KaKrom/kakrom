@@ -1,5 +1,6 @@
-### ✨ Hello! ✨
+### ✨ Hi! ✨
 
+Here some things about me:
 
 - 🌱 I'm currently learning how to improve more in the QA area to be able to grow as a QA Engineer
 - 👯 I seek to collaborate in scientific and IT communities
